@@ -1,0 +1,1 @@
+Creating new branch and then adding the new file and then directing it to the staging area 
